@@ -1,0 +1,11 @@
+{
+  "name": "css-color-underline",
+  "main": "./lib/main.coffee",
+  "version": "0.0.0",
+  "description": "Underlines CSS color values with color value",
+  "repository": "https://github.com/carlosingles/css-color-underline",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.50.0"
+  }
+}
