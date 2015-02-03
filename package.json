@@ -6,6 +6,9 @@
   "repository": "https://github.com/carlosingles/css-color-underline",
   "license": "MIT",
   "engines": {
-    "atom": ">=0.50.0"
+    "atom": ">=0.174.0, <2.0.0"
+  },
+  "dependencies": {
+    "atom-space-pen-views": "^2.0.3"
   }
 }
